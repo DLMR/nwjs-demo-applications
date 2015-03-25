@@ -1,0 +1,17 @@
+{
+  "name": "FileExplorer",
+  "description": "Simple file explorer.",
+  "version": "0.0.1",
+  "main": "index.html",
+  "scripts": {
+    "start": "nw"
+  },
+  "window": {
+    "toolbar": false,
+    "width": 660,
+    "height": 500
+  },
+  "devDependencies": {
+    "nw": "^0.12.0"
+  }
+}

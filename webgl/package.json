@@ -1,0 +1,19 @@
+{
+  "name": "Hello-3D-World",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "nw"
+  },
+  "devDependencies": {
+    "nw": "^0.12.0"
+  },
+  "main": "index.html",
+  "window": {
+    "frame": false,
+    "width": 500,
+    "height": 400,
+    "toolbar": false,
+    "position": "center",
+    "resizable": false
+  }
+}
